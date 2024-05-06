@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "byte-unit"
-version = "0.1.0"
+version = "0.3.0"
 description = ""
 authors = ["Jaya Bharath <bharath21196@gmail.com>"]
 readme = "README.md"

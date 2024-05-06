@@ -56,4 +56,4 @@ def convert_to_unit(value: str | int, to_unit: ByteUnit) -> int:
     else:
         out = int(_value) * int(_from_unit.value.value / to_unit.value.value)
 
-    return out
+    return int(out)
